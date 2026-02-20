@@ -1,3 +1,4 @@
+'use client'
 import PlaceholderPage from '@/components/PlaceholderPage'
 import { Bot } from 'lucide-react'
 

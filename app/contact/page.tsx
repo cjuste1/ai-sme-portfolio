@@ -1,3 +1,4 @@
+'use client'
 import PlaceholderPage from '@/components/PlaceholderPage'
 import { Mail } from 'lucide-react'
 
